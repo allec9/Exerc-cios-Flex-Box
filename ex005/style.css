@@ -1,0 +1,6 @@
+.rodape{
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    gap: 20px;
+}
