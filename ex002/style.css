@@ -1,5 +1,25 @@
-.pai-dos-itens{
+.pai-dos-itens {
     display: flex;
-    gap: 20px;
+    flex-direction: column;
+    gap: 40px;
     align-items: center;
+}
+
+.pai-dos-itens .produto {
+    width: 300px;
+    background-color: wheat;
+    display: flex;
+    flex-direction: column;
+}
+.pai-dos-itens .produto a{
+    display: flex;
+    margin: auto;
+}
+.pai-dos-itens .produto img{
+    width: 100%;
+}
+
+.pai-dos-itens .produto button {
+    display: flex;
+    margin: auto;
 }
