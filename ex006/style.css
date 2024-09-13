@@ -1,0 +1,19 @@
+.mandalorians {
+    display: flex;
+    justify-content: space-between;
+gap: 40px;
+}
+.mandalorians .cardPV{
+    background-color: #7b798e;
+}
+.mandalorians .cardDD{
+    background-color: #484b5d;
+}
+.mandalorians .cardBF{
+    background-color: #4E6548;
+}
+.mandalorians .cardPV button, .mandalorians .cardBF button, .mandalorians .cardDD button{
+    display: flex;
+    margin: auto;
+   
+} 

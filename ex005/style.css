@@ -3,4 +3,12 @@
     position: absolute;
     bottom: 0;
     gap: 20px;
+    background-color: grey;
+}
+.rodape a{
+    color: white;
+    justify-content: center;
+}
+.rodape a:hover{
+    color: blue;
 }
