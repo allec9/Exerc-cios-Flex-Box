@@ -1,0 +1,12 @@
+.servico {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.servico .card-servico {
+    width: 250px;
+    background: wheat;
+}
+.servico .card-servico img{
+    width: 100%;
+}
